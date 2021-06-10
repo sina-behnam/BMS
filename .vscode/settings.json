@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "server-panel\\venv\\Scripts\\python.exe",
+
+    "files.associations": {
+        "string": "cpp"
+    }
+}
