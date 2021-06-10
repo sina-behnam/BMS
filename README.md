@@ -4,3 +4,8 @@ This repository aims to build up a BMS platform by this current prototype projec
 The ESP8266Client folder is a platformIO project containing IOT side project and all dependencies .
 
 The server-platform is a Django project containing server side .
+
+# Information 
+
+Writen by Sina behnam <br>
+Email : sina.behnam.ac@gmail.com<br>
