@@ -6,8 +6,8 @@
 #include <EEPROM.h>
 
 #ifndef STASSID
-#define SSID "Sina behnam"
-#define STAPSK "1144800s"
+#define SSID "your access point ssid"
+#define STAPSK "your access point password"
 #endif
 
 #define MAGIC_NUMBER 42
